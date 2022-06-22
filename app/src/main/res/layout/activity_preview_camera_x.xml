@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PreviewCameraX">
+
+    <TextView
+        android:id="@+id/textViewLabelCam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chụp hình"
+        android:layout_marginTop="20dp"
+        android:textSize="25sp"
+        android:fontFamily="@font/nunito_sans_extrabold"
+        android:textColor="@color/green"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.camera.view.PreviewView
+        android:id="@+id/previewView"
+        android:layout_width="400dp"
+        android:layout_height="0dp"
+        android:scaleType="fitCenter"
+        android:layout_marginTop="20dp"
+        app:layout_constraintDimensionRatio="4:3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textViewLabelCam"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonTakePicture"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/theme_button"
+        android:text="Chụp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/nunito_sans_bold"
+        android:textSize="20sp"
+        android:layout_marginTop="30dp"
+        android:textAllCaps="false"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/previewView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

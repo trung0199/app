@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    app:cardCornerRadius="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="3">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nhận diện loại rác thải"
+            android:layout_weight="1"
+            android:textAlignment="center"
+            android:paddingVertical="10dp"
+            android:fontFamily="@font/nunito_sans_extrabold"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:background="@drawable/background_head_dialog"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/textViewResultDialogClass"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/green"
+                android:text="Đây là Rắn hổ mang"
+                android:textSize="20sp"
+                android:padding="10dp"
+                android:fontFamily="@font/nunito_sans_bold"
+                android:layout_gravity="center"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/buttonInfoDialogClass"
+                    android:background="@drawable/theme_button"
+                    android:layout_width="150dp"
+                    android:layout_marginVertical="10dp"
+                    android:textSize="20sp"
+                    android:textColor="@color/white"
+                    android:text="Thông tin"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"/>
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/buttonColoseDialogClass"
+                    android:background="@drawable/theme_button"
+                    android:layout_width="150dp"
+                    android:layout_marginVertical="10dp"
+                    android:textSize="20sp"
+                    android:layout_marginStart="20dp"
+                    android:textColor="@color/white"
+                    android:text="Đóng"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

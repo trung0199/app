@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Garbage Classification</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="type">
+        <item>Nhận diện rác thải tái chế và không tái chế</item>
+        <item>Nhận diện rác thải</item>
+    </string-array>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project_AI/AndroidAI/app/src/main/res/drawable/background_head_dialog.xml" value="0.189" />
+        <entry key="..\:/Project_AI/AndroidAI/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Project_AI/AndroidAI/app/src/main/res/layout/activity_preview_camera_x.xml" value="0.2" />
+        <entry key="..\:/Project_AI/AndroidAI/app/src/main/res/layout/dialog_cam_or_gallery.xml" value="0.18072916666666666" />
+        <entry key="..\:/Project_AI/AndroidAI/app/src/main/res/layout/dialog_result.xml" value="0.4" />
+        <entry key="..\:/Project_AI/AndroidAI/app/src/main/res/layout/dialog_show_result.xml" value="0.264" />
+        <entry key="..\:/Project_AI/AndroidAI/app/src/main/res/layout/dialog_show_result_class.xml" value="0.264" />
+        <entry key="..\:/Project_AI/AndroidAI/app/src/main/res/layout/fragment_about.xml" value="0.25" />
+        <entry key="..\:/Project_AI/AndroidAI/app/src/main/res/layout/fragment_camera.xml" value="0.25" />
+        <entry key="..\:/Project_AI/AndroidAI/app/src/main/res/layout/fragment_detail_snake.xml" value="0.29322916666666665" />
+        <entry key="..\:/Project_AI/AndroidAI/app/src/main/res/layout/fragment_home.xml" value="0.175" />
+        <entry key="..\:/Project_AI/AndroidAI/app/src/main/res/layout/fragment_library.xml" value="0.32916666666666666" />
+        <entry key="..\:/Project_AI/AndroidAI/app/src/main/res/layout/fragment_realtime.xml" value="0.264" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/drawable/circle.xml" value="0.2555" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/drawable/ic_info.xml" value="0.1315" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/drawable/img.xml" value="0.2555" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/drawable/theme_button.xml" value="0.2555" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/drawable/theme_cardview.xml" value="0.2555" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/drawable/theme_text.xml" value="0.1315" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/layout/ahihi.xml" value="0.25" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/layout/dialog.xml" value="0.25" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/layout/dialog_cam_or_gallery.xml" value="0.264" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/layout/fragment_camera.xml" value="0.25" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/layout/fragment_detail_snake.xml" value="0.3683187560738581" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/layout/fragment_library.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/layout/fragment_video.xml" value="0.2359375" />
+        <entry key="..\:/Users/lviet/Desktop/AI_CuoiKy/AndroidAI/app/src/main/res/layout/item_snake.xml" value="0.4" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/drawable/background_head_dialog.xml" value="0.2265" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/drawable/theme_button.xml" value="0.2265" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/drawable/theme_text.xml" value="0.2265" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/layout/activity_preview_camera_x.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/layout/dialog_cam_or_gallery.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/layout/dialog_result.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/layout/dialog_show_result.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/layout/dialog_show_result_class.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/layout/fragment_about.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/layout/fragment_camera.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/layout/fragment_detail_snake.xml" value="0.264" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/layout/fragment_library.xml" value="0.1921875" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/layout/fragment_realtime.xml" value="0.1921875" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/layout/fragment_video.xml" value="0.1921875" />
+        <entry key="..\:/Users/trung/Downloads/Snake_Venom-master/Snake_Venom-master/app/src/main/res/layout/item_snake.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
